@@ -1,6 +1,6 @@
 # Week-1-Project
 # My landing page
-#### {This landing page provide information about myself}, {23rd February 2023}
+#### This landing page provide information about myself, {23rd February 2023}
 #### By **John Owino**
 ## Description
 This landing page has a phot of myself. It includes the list of basic projects i have done on webpage creation usin html. It also provides some background on my education, job expereicne and the decison why i choose to take a ckas in programmimg. Also included is a list of my current interests, hobbies and skill.
