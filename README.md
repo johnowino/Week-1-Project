@@ -1,15 +1,16 @@
 # Week-1-Project
 # My landing page
-#### This landing page provide information about myself, {23rd February 2023}
+#### This landing page provide information about myself, 23rd February 2023.
 #### By **John Owino**
 ## Description
-This landing page has a phot of myself. It includes the list of basic projects i have done on webpage creation usin html. It also provides some background on my education, job expereicne and the decison why i choose to take a ckas in programmimg. Also included is a list of my current interests, hobbies and skill.
+This landing page has a photo of myself. It includes the list of basic projects i have done on webpage creation using html. It also provides some background on my education, job expereicne and the decison why i choose to take a course in programmimg. Also included is a list of my current interests, hobbies and skill.
 ## Setup/Installation Requirements
 You require a laptop with access to the internet. You need to have the following programs installed on your laptop.
 1. Windows Power Shell with admin rights
 2. Git Bash
 3. Visual Studio Code
-4. Google chrome
+5. Google chrome
+
 You need to setup a GitHub account if you do not have one. You will be depositing your work on GitHub and tracking changes.
 You also need to deploy the site on GitHub pages so that the live site can be viewed over the internet.
 The project requires setup of separate folders to store images, css files
@@ -20,9 +21,10 @@ The goal of the project is to test knowledge gained on:
 * identation and spacing of html and CSS
 * tracking regular commits with clear messages associated wih them
 * The project is deployed om GitHub
+
 Copyright and license information is included. 
 ## Known Bugs
-Currently, there are no known bugs. Use of company owned laptopns with stringent security controls can be a bottleneck. It is advisable to use an own laptop where you have full administrative rights
+Currently, there are no known bugs. Use of company owned laptops with stringent security controls can be a bottleneck. It is advisable to use an own laptop where you have full administrative rights
 ## Technologies Used
 I have used HTML and CSS. Looking foward to do more fancy stuff with the same and other tools in future as i gain more experience.
 ## Support and contact details
