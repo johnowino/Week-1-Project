@@ -1,7 +1,8 @@
 img {
   float: left;
-  max-width: 25%;
+  max-width: 15%;
   height: auto;
+  padding: 40px;
 }
 h1 {
   color: red;
@@ -13,4 +14,14 @@ h1 {
   border-style: double;
   border-radius: 5%;
   padding: 10px;
+}
+.introduction {
+  border-style: solid;
+  background-color: aqua;
+  border: 10px;
+  border-color: red;
+  padding: 30px;
+  margin-left: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
