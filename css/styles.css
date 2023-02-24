@@ -11,5 +11,6 @@ h1 {
   border: 10px;
   border-color: blue;
   border-style: double;
+  border-radius: 5%;
   padding: 10px;
 }
